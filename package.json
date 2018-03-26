@@ -7,8 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "T",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taze-fullstack/frontend-gulp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taze-fullstack/frontend-gulp/issues"
+  },
+  "homepage": "https://github.com/taze-fullstack/frontend-gulp#readme",
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
